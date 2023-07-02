@@ -14,4 +14,9 @@ main {
   width: 150px;
   height: 150px;
   border: 1px solid black;
+  font-size: 32px;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
